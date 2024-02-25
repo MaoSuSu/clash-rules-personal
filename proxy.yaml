@@ -1,6 +1,8 @@
 payload:
   - 'www.bing.com'
-  - 'sysney.bing.com'
+  - '+.sysney.bing.com'
+  - '+.edgeservices.bing.com'
+  - '+.copilot.microsoft.com'
   - '+.savewizard.net'
   - '+.telghub.com'
   - '+.iloveimg.com'
